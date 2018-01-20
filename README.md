@@ -1,2 +1,2 @@
 # Calculadora
-Web Service usando EJB
+Web Service SOAP + EJB
